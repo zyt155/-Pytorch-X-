@@ -1,3 +1,4 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 zyt.mp4 filter=lfs diff=lfs merge=lfs -text
 zyt filter=lfs diff=lfs merge=lfs -text
+录频.mp4 filter=lfs diff=lfs merge=lfs -text
